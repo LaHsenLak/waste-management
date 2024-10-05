@@ -15,7 +15,7 @@ List of problems that idea can solve:
 
 Many cities struggle with inefficient waste management, leading to overflowing bins, missed pickups, and increased operational costs. Traditional waste collection methods often rely on fixed schedules that do not account for real-time fill levels.
 
-According to the World Bank, cities generate over 2 billion tons of waste per year, with that number expected to increase. Efficient waste management is essential for maintaining public health and environmental sustainability. [Article]([[https://developer.twitter.com/en/docs](https://openknowledge.worldbank.org/entities/publication/d3f9d45e-115f-559b-b14f-28552410e90a)])
+According to the World Bank, cities generate over 2 billion tons of waste per year, with that number expected to increase. Efficient waste management is essential for maintaining public health and environmental sustainability. [World Bank Article](https://openknowledge.worldbank.org/entities/publication/d3f9d45e-115f-559b-b14f-28552410e90a)
   
 With increasing urbanization and environmental concerns, I’m motivated to leverage AI to help cities become cleaner and more efficient. This project addresses public health, environmental issues, and city budget management, contributing to smarter, more sustainable urban living.
 
@@ -28,7 +28,7 @@ The solution will be used by municipal waste management departments to improve t
 For the type of users, city officials, waste management personnel, and potentially residents would benefit from cleaner streets and timely waste collection.
 
 ## Data sources and AI methods
-The project will collect data from smart bins equipped with fill-level sensors, GPS data from collection trucks, and historical waste collection data from municipal records. Open datasets related to city demographics and waste generation patterns can also be used. Such datasets can be found [Article](https://data.world/datasets/waste)
+The project will collect data from smart bins equipped with fill-level sensors, GPS data from collection trucks, and historical waste collection data from municipal records. Open datasets related to city demographics and waste generation patterns can also be used. Such datasets can be found [Waste Dataset](https://data.world/datasets/waste)
 
 Machine learning models will analyze fill-level data to predict optimal collection times and routes. Techniques such as regression analysis for predicting fill rates and clustering algorithms for optimizing routes will be employed.
 
